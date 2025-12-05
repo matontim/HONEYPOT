@@ -1,7 +1,7 @@
 
 ---
 
-## **📄 authbind_example.md**
+## **authbind_example.md**
 ```md
 # Using authbind to use privileged ports (22) without root
 
